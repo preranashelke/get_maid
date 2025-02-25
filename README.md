@@ -3,9 +3,7 @@
 
 ## Team members
 * Neha Khairnar- nehak2209pc@gmail.com
-* Prasanna Waghmode - prasannawaghmode@gmail.com
 * Prerna Shelke - prernashelke01@gmail.com
-* Vaishnavi Jarwal - vaishnavijarwal31@gmail.com
 
 ## Mentors
 * Palak Mantry
